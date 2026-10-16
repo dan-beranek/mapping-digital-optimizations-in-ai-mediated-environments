@@ -1,5 +1,16 @@
 # Mapping Digital Optimizations in AI-Mediated Environments
 
+---
+
+## DIO/ODI — Vocabulary & Reference Model
+
+A machine-readable vocabulary and a reference model for Digital Identity Optimization (DIO) and the Ontology of Digital Identity (ODI).
+
+- **Vocabulary:** https://vocab.danielberanek.cz/dio-odi/
+- **Reference Model & Source Repository:** https://github.com/dan-beranek/dio-odi-reference-model/
+
+---
+
 A taxonomic and strategic overview of SEO, AEO, GEO, LLMO, AIO, Entity SEO, and Digital Identity Optimization in AI-mediated environments.
 
 ## Status and role
