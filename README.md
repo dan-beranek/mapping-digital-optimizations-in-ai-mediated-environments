@@ -1,5 +1,8 @@
 # Mapping Digital Optimizations in AI-Mediated Environments
 
+
+A taxonomic and strategic overview of SEO, AEO, GEO, LLMO, AIO, Entity SEO, and Digital Identity Optimization in AI-mediated environments.
+
 ---
 
 ## DIO/ODI — Vocabulary & Reference Model
@@ -11,7 +14,6 @@ A machine-readable vocabulary and a reference model for Digital Identity Optimiz
 
 ---
 
-A taxonomic and strategic overview of SEO, AEO, GEO, LLMO, AIO, Entity SEO, and Digital Identity Optimization in AI-mediated environments.
 
 ## Status and role
 
