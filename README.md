@@ -4,12 +4,16 @@ A taxonomic and strategic overview of SEO, AEO, GEO, LLMO, AIO, Entity SEO, and 
 
 ---
 
-## DIO/ODI — Vocabulary & Reference Model
+## DIO/ODI — Canonical reference infrastructure
 
-A machine-readable vocabulary and a reference model for Digital Identity Optimization (DIO) and the Ontology of Digital Identity (ODI).
+The current archived Reference Model release is v0.8.0. It integrates the SKOS-first Reference Vocabulary v0.2.1, derived non-normative Application Mappings and the append-only Semantic Change Feed (SCF) v0.1.0 (JSON Schema v0.2.0; 44 documented events through 7 November 2026). SCF is a component of the Reference Model, not a separately DOI-identified work.
 
-- **Vocabulary:** https://vocab.danielberanek.cz/dio-odi/
-- **Reference Model & Source Repository:** https://github.com/dan-beranek/dio-odi-reference-model/
+- **Archived Reference Model v0.8.0:** https://doi.org/10.5281/zenodo.24056601
+- **Reference Model source repository:** https://github.com/dan-beranek/dio-odi-reference-model/
+- **Reference Vocabulary:** https://vocab.danielberanek.cz/dio-odi/
+- **Semantic Change Feed:** https://vocab.danielberanek.cz/semantic-change-feed/
+- **SCF event registry (JSON):** https://vocab.danielberanek.cz/semantic-change-feed/events.json
+- **SCF JSON Schema:** https://vocab.danielberanek.cz/semantic-change-feed/schema.json
 
 ---
 
