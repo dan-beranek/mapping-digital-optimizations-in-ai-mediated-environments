@@ -1,0 +1,102 @@
+{
+  "schema_version": "1.0.0",
+  "site": {
+    "repository": "dan-beranek/mapping-digital-optimizations-in-ai-mediated-environments",
+    "origin": "https://dan-beranek.github.io/mapping-digital-optimizations-in-ai-mediated-environments/"
+  },
+  "keyword_registry": {
+    "repository": "dan-beranek/dio-odi-reference-model",
+    "path": "metadata/keywords.json",
+    "registry_version": "2.11.0",
+    "status": "canonical-approved",
+    "sha256": "bd1c5f36b894329b1af65b3eea3905fdf8c2c05b6182a2bd11cdb16fce957114",
+    "source": "https://raw.githubusercontent.com/dan-beranek/dio-odi-reference-model/main/metadata/keywords.json",
+    "source_url": "https://raw.githubusercontent.com/dan-beranek/dio-odi-reference-model/main/metadata/keywords.json",
+    "snapshot_path": "metadata/keyword-registry.snapshot.json"
+  },
+  "artifacts": [
+    {
+      "profile_id": "mapping-ai-mediated-environments",
+      "status": "canonical-approved",
+      "scope": "derived-public-webpage",
+      "purpose": "Secondary taxonomic and strategic map relating digital-visibility practices and positioning DIO as a proposed entity-level meta-layer, without presenting the map as empirical validation.",
+      "page": {
+        "page_key": "overview",
+        "path": "index.html",
+        "url": "https://dan-beranek.github.io/mapping-digital-optimizations-in-ai-mediated-environments/",
+        "entity_id": null,
+        "entity_type": "WebPage",
+        "entity_url": "https://dan-beranek.github.io/mapping-digital-optimizations-in-ai-mediated-environments/"
+      },
+      "chunk_selectors": {
+        "C0_identity_invariant": "all",
+        "C1_reconstruction_environments": [
+          "artificial intelligence",
+          "knowledge graphs",
+          "human observers"
+        ],
+        "C2_work_positioning": [
+          "taxonomy of digital optimization practices",
+          "AI-mediated visibility",
+          "entity-based visibility",
+          "strategic meta-layer"
+        ],
+        "C3_reconstruction_mechanics": [
+          "distributed representational state",
+          "semantic coherence"
+        ],
+        "C4_k6": "none",
+        "C5_failures_robustness": [
+          "entity resolution",
+          "Semantic Fragmentation",
+          "Temporal Discontinuity",
+          "Identity Collapse",
+          "Semantic Vulnerability"
+        ],
+        "C6_machine_readable_representation": [
+          "provenance"
+        ]
+      },
+      "resolved_keywords": [
+        "Digital Identity Optimization",
+        "DIO",
+        "Ontology of Digital Identity",
+        "ODI",
+        "digital identity",
+        "identity reconstruction",
+        "artificial intelligence",
+        "knowledge graphs",
+        "human observers",
+        "taxonomy of digital optimization practices",
+        "AI-mediated visibility",
+        "entity-based visibility",
+        "strategic meta-layer",
+        "distributed representational state",
+        "semantic coherence",
+        "entity resolution",
+        "Semantic Fragmentation",
+        "Temporal Discontinuity",
+        "Identity Collapse",
+        "Semantic Vulnerability",
+        "provenance"
+      ],
+      "term_rationales": {
+        "artificial intelligence": "The map explicitly concerns AI-mediated environments and the retrieval, synthesis, attribution, and recommendation of entities and claims by AI systems.",
+        "knowledge graphs": "Knowledge graphs are explicitly included among the entity-recognition and structured-relationship practices mapped by the presentation.",
+        "human observers": "The map explicitly distinguishes human-facing interpretation from technical and AI-mediated reconstruction.",
+        "taxonomy of digital optimization practices": "The page presents a taxonomic overview relating SEO, AEO, GEO, LLMO, AIO, Entity SEO, and DIO.",
+        "AI-mediated visibility": "AI-mediated discovery, retrieval, synthesis, attribution, and recommendation are explicit parts of the map's scope.",
+        "entity-based visibility": "The map positions DIO around the coherence, recognizability, attribution, and continuity of a digital entity rather than only a page or answer.",
+        "strategic meta-layer": "The page explicitly characterizes DIO as a proposed strategic meta-layer within a wider taxonomy, not as the name of the whole field.",
+        "distributed representational state": "The page describes entities as distributed across pages, profiles, databases, citations, structured data, platforms, and AI-generated responses.",
+        "semantic coherence": "The central DIO positioning is the coherence of an entity's distributed representation across human, technical, and AI-mediated contexts.",
+        "entity resolution": "The page explicitly relates optimization fragmentation to entity resolution.",
+        "Semantic Fragmentation": "The page names semantic fragmentation as a failure risk arising from incompatible or disconnected distributed records.",
+        "Temporal Discontinuity": "The page explicitly names temporal discontinuity as a risk when entities change but indexes, datasets, and summaries retain older states.",
+        "Identity Collapse": "The page explicitly names identity collapse as a risk caused by ambiguity, weak distinction, and conflation.",
+        "Semantic Vulnerability": "The page explicitly names semantic vulnerability as susceptibility to unverified, conflicting, or manipulated context.",
+        "provenance": "The map explicitly relates its diagnosis to provenance and identifies provenance among the relevant DIO/ODI dimensions."
+      }
+    }
+  ]
+}
